@@ -1,2 +1,2 @@
 ## Metropolis
-A mew Minecraft Forge mod claims system.
+A new Minecraft Forge mod claims system.
